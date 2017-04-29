@@ -1,7 +1,7 @@
 {
   "name": "liri-node-app",
   "version": "1.0.0",
-  "description": "Liri node application. Week 10 homework UT Coding Bootcamp",
+  "description": "Liri node application.",
   "main": "keys.js",
   "dependencies": {
     "fs": "0.0.2",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Multishifties/liri-node-app.git"
+    "url": "git+https://github.com/Creator44/liri-node-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Multishifties/liri-node-app/issues"
+    "url": "https://github.com/Creator44/liri-node-app/issues"
   },
-  "homepage": "https://github.com/Multishifties/liri-node-app#readme"
+  "homepage": "https://github.com/Creator44/liri-node-app#readme"
 }
