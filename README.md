@@ -1,4 +1,7 @@
-
+# LIRI-bot
+###Your first Node.js application. Week 10 project for the UT Coding Bootcamp.
+This repository serves as an introduction to Node.js and running JavaScript in an environment other than the Browser. 
+###Usage:
 The LIRI-bot takes 4 commands: <br>
 1. my-tweets <br>
 2. spotify-this-song <br>
